@@ -13,16 +13,16 @@
       "title": "Post 3"
     }
   ],
-  "comments": [
+  "course": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Álgebra",
+      "description": "Curso de Álgebra
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "name": "Cálculo I",
+      "description": "Curso de Cálculo I"
     }
   ],
   "profile": {
