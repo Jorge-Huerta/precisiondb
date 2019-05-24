@@ -16,12 +16,12 @@
   "course": [
     {
       "id": 1,
-      "courseName": "Álgebra",
-      "description": "Curso de Álgebra
+      "name": "Álgebra",
+      "description": "Curso de Álgebra"
     },
     {
       "id": 2,
-      "courseName": "Cálculo I",
+      "name": "Cálculo I",
       "description": "Curso de Cálculo I"
     }
   ],
