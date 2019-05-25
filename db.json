@@ -16,7 +16,7 @@
   "courses": [
     {
       "id": 1,
-      "name": "Álgebra",
+      "title": "Álgebra",
       "description": "Curso de Álgebra",
       "route": "/algebra",
       "topics": "Progresiones Aritméticas",
@@ -24,7 +24,7 @@
     },
     {
       "id": 2,
-      "name": "Cálculo I",
+      "title": "Cálculo I",
       "description": "Curso de Cálculo I",
       "route": "/calculo2",
       "topics": "Límites",
@@ -32,7 +32,7 @@
     },
     {
       "id": 3,
-      "name": "Álgebra Lineal",
+      "title": "Álgebra Lineal",
       "description": "Curso de Álgebra Lineal",
       "route": "/lineal",
       "topics": "Combinación Lineal",
@@ -40,7 +40,7 @@
     },
     {
       "id": 4,
-      "name": "Cálculo II",
+      "title": "Cálculo II",
       "description": "Curso de Cálculo II",
       "route": "/calculo2",
       "topics": "Integral Definida",
