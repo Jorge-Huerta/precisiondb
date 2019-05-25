@@ -17,12 +17,34 @@
     {
       "id": 1,
       "name": "Álgebra",
-      "description": "Curso de Álgebra"
+      "description": "Curso de Álgebra",
+      "route": "/algebra",
+      "topics": "Progresiones Aritméticas",
+      "link": "https://youtu.be/4mx-H3aKJvM"
     },
     {
       "id": 2,
       "name": "Cálculo I",
-      "description": "Curso de Cálculo I"
+      "description": "Curso de Cálculo I",
+      "route": "/calculo2",
+      "topics": "Límites",
+      "link": "https://youtu.be/rrbS5l--1Ss"
+    },
+    {
+      "id": 3,
+      "name": "Álgebra Lineal",
+      "description": "Curso de Álgebra Lineal",
+      "route": "/lineal",
+      "topics": "Combinación Lineal",
+      "link": "https://youtu.be/n6ZbDKquQoA"
+    },
+    {
+      "id": 4,
+      "name": "Cálculo II",
+      "description": "Curso de Cálculo II",
+      "route": "/calculo2",
+      "topics": "Integral Definida",
+      "link": "https://youtu.be/wuI5MFhvgsY"
     }
   ],
   "profile": {
