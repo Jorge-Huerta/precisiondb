@@ -12,7 +12,7 @@
       "id": 2,
       "title": "Cálculo I",
       "description": "Curso de Cálculo I",
-      "route": "/calculo2",
+      "route": "/calculo1",
       "topics": "Límites",
       "link": "https://youtu.be/rrbS5l--1Ss"
     },
